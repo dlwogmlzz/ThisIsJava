@@ -1,4 +1,4 @@
-package Example.ex05;
+package Example.No05_ConstructorFieldInitialization;
 
 public class KoreanExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Example.ex05;
+package Example.No05_ConstructorFieldInitialization;
 
 // 생성자에서 필드 초기화
 public class Korean {
