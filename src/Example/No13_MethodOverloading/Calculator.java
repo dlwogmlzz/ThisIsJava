@@ -1,4 +1,4 @@
-package Example.ex13;
+package Example.No13_MethodOverloading;
 
 // 메서드 오버로딩
 public class Calculator {
