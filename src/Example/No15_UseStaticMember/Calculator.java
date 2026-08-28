@@ -1,4 +1,4 @@
-package Example.ex15;
+package Example.No15_UseStaticMember;
 
 // 정적 멤버 사용
 public class Calculator {
