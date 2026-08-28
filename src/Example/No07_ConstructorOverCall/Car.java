@@ -1,4 +1,4 @@
-package Example.ex07;
+package Example.No07_ConstructorOverCall;
 
 // 다른 생성자를 호출해서 중복 코드 줄이기
 public class Car {
