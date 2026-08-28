@@ -1,4 +1,4 @@
-package Example.ex09;
+package Example.No09_VariableFactor;
 
 // 매개 변수의 수를 모를 경우
 public class ComputerExample {
