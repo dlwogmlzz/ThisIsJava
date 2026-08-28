@@ -1,4 +1,4 @@
-package Example.ex06;
+package Example.No06_ConstructorOverloading;
 
 // 생성자의 오버로딩
 public class Car {

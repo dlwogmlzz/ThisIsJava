@@ -1,6 +1,4 @@
-package Example.ex06;
-
-import java.sql.SQLOutput;
+package Example.No06_ConstructorOverloading;
 
 // 객체 생성 시 생성자 선택
 public class CarExample {
