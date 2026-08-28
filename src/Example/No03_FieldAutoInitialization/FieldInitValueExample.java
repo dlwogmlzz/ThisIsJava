@@ -1,4 +1,4 @@
-package Example.ex03;
+package Example.No03_FieldAutoInitialization;
 
 // 필드값 출력
 public class FieldInitValueExample {
