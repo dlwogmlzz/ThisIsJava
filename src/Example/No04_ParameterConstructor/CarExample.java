@@ -1,4 +1,4 @@
-package Example.ex04;
+package Example.No04_ParameterConstructor;
 
 public class CarExample {
     // 생성자를 호출해서 객체생성
