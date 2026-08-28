@@ -1,4 +1,4 @@
-package Example.ex18;
+package Example.No18_Singleton;
 
 public class SingeltonExample {
     public static void main(String[] args) {
