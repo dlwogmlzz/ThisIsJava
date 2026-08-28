@@ -1,4 +1,4 @@
-package Example.No08_MethodDeclareCall;
+package Example.No08_MethodDeclarationCall;
 
 // 메서드 선언
 public class Calculator {
