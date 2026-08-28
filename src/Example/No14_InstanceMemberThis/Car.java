@@ -1,4 +1,4 @@
-package Example.ex14;
+package Example.No14_InstanceMemberThis;
 
 // 인스턴스 멤버와 this
 public class Car {
