@@ -1,4 +1,4 @@
-package Example.ex17;
+package Example.No17_StaticMethodNotandum;
 
 // 정적 메서드와 블록 선언 시 주의할 점
 public class Car {
