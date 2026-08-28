@@ -1,4 +1,4 @@
-package Example.ex11;
+package Example.No11_MethodInsideCall;
 
 // 클래스 내부에서 메서드 호출
 public class Calculator {

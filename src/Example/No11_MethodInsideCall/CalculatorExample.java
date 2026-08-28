@@ -1,4 +1,4 @@
-package Example.ex11;
+package Example.No11_MethodInsideCall;
 
 // Calculator의 execute() 실행
 public class CalculatorExample {
