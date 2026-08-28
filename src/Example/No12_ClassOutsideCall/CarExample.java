@@ -1,4 +1,4 @@
-package Example.ex12;
+package Example.No12_ClassOutsideCall;
 
 // 클래스 외부에서 메서드 호출
 public class CarExample {
