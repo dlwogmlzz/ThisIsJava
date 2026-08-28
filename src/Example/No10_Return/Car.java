@@ -1,4 +1,4 @@
-package Example.ex10;
+package Example.No10_Return;
 
 // return문
 public class Car {
