@@ -1,4 +1,4 @@
-package Example.ex02;
+package Example.No02_ClassFieldDeclaration;
 
 // 외부 클래스에서 Car 필드값 읽기와 변경
 public class CarExample {

@@ -1,4 +1,4 @@
-package Example.ex02;
+package Example.No02_ClassFieldDeclaration;
 
 // Car 클래스 필드 선언
 public class Car {
