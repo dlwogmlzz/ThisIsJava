@@ -1,4 +1,4 @@
-package Example.ex16;
+package Example.No16_StaticInitialization;
 
 // 정적 초기화 블록
 public class Television {
