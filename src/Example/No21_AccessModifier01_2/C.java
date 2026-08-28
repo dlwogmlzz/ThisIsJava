@@ -1,4 +1,4 @@
-package Example.No21_AccessModifier02;  // 패키지가 다름.
+package Example.No21_AccessModifier01_2;  // 패키지가 다름.
 
 import Example.No21_AccessModifier01.*;
 

@@ -1,4 +1,4 @@
-package Example.No21_AccessModifier03;
+package Example.No21_AccessModifier02;
 
 // 생성자 접근 제한
 public class A {
