@@ -1,4 +1,4 @@
-package ClassEx.No26_Promotion_3;
+package ClassEx.No27_Polymorphism;
 
 // 타이어 클래스
 public class Tire {

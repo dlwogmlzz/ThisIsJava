@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_3;
+package ClassEx.No27_Polymorphism_Parameter;
 
 // 부모 클래스
 public class Vehicle {

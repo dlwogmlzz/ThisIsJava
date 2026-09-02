@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_2;
+package ClassEx.No27_Polymorphism_Array;
 
 // 타이어 클래스
 public class Tire {

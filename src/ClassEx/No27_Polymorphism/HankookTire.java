@@ -1,4 +1,4 @@
-package ClassEx.No26_Promotion_3;
+package ClassEx.No27_Polymorphism;
 
 // Tire의 자식 클래스
 public class HankookTire extends Tire {
@@ -13,11 +13,11 @@ public class HankookTire extends Tire {
     public boolean roll() {
         ++accumulatedRotation;
         if (accumulatedRotation < maxRotation) {
-            System.out.println(location + " KumhoTire 수명: " +
+            System.out.println(location + " HankookTire 수명: " +
                     (maxRotation - accumulatedRotation) + "회");
             return true;
         } else {
-            System.out.println("*** " + location + " kumhoTire 펑크 ***");
+            System.out.println("*** " + location + " HankookTire 펑크 ***");
             return false;
         }
     }

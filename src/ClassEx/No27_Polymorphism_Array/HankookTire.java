@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_2;
+package ClassEx.No27_Polymorphism_Array;
 
 // Tire의 자식 클래스
 public class HankookTire extends Tire {

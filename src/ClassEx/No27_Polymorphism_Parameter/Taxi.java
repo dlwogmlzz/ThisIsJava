@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_3;
+package ClassEx.No27_Polymorphism_Parameter;
 
 // 자식 클래스
 public class Taxi extends Vehicle {

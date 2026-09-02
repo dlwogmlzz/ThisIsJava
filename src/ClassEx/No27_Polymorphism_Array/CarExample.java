@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_2;
+package ClassEx.No27_Polymorphism_Array;
 
 public class CarExample {
     public static void main(String[] args) {

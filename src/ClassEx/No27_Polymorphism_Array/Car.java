@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_2;
+package ClassEx.No27_Polymorphism_Array;
 
 // Tire 부품으로 가지는 클래스
 public class Car {

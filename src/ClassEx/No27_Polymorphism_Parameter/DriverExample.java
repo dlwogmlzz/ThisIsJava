@@ -1,4 +1,4 @@
-package ClassEx.No27_Polymorphism_3;
+package ClassEx.No27_Polymorphism_Parameter;
 
 public class DriverExample {
     public static void main(String[] args) {

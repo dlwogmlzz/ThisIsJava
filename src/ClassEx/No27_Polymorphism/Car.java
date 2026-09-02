@@ -1,4 +1,4 @@
-package ClassEx.No26_Promotion_3;
+package ClassEx.No27_Polymorphism;
 
 // Tire를 부품으로 가지는 클래스
 public class Car {
@@ -20,6 +20,7 @@ public class Car {
         if(frontRightTire.roll() == false) { stop(); return 2; }
         if(backLeftTire.roll() == false) { stop(); return 3; }
         if(backRightTire.roll() == false) { stop(); return 4; }
+
         return 0;
     }
     void stop() {
