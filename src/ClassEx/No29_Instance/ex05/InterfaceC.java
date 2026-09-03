@@ -1,4 +1,6 @@
 package ClassEx.No29_Instance.ex05;
 
-public interface InterfaceC {
+// 하위 인터페이스
+public interface InterfaceC extends InterfaceA, InterfaceB {
+    public void methodC();
 }

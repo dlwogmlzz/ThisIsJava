@@ -1,4 +1,4 @@
-package ClassEx.No29_Instance;
+package ClassEx.No29_Instance.ex01;
 
 public interface RemoteControl {
     // 상수 필드 선언
