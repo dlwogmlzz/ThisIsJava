@@ -5,7 +5,7 @@ package ClassEx.No28_Abstract;
 public class SmartPhone extends Phone {
     // 생성자
     public SmartPhone(String owner) {
-        // super를 이용해서 Phone의 생성자를 호출함.
+        // super를 이용해서 부모인 Phone의 생성자, owner를 호출함.
         super(owner);
     }
 

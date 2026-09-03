@@ -157,3 +157,16 @@ public abstract class 클래스 {
 선언 방법
 [public | protected] `abstract` 리턴타입 메서드명(매개변수, ...);
 
+
+# 봉인된 클래스
+
+ - 기본적으로 final 클래스를 제외한 모든 클래스는 부모 클래스가 될 수 있다.
+ - `Java 15부터` 무분별한 자식 클래스 생성을 방지하기 위해 봉인된(sealed) 클래스가 도입되었음...
+
+　public `sealed` class Person `permits` Employee, Manager { ... }
+
+ - `sealed` : person 클래스를 봉인하겠다, 상속할 수 없다.
+ - `permits` : 해당 클래스(Employee, Manager)는 봉인을 하지 않고 사용하겠다.
+
+public `final` class Employee extends Person { ... }
+public `non-sealed` class Manager extends Person { ... } // non-sealed: 봉인된 특성을 없애겠다.
